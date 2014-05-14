@@ -77,4 +77,10 @@
                         <url>http://www.mygrid.org.uk/maven/snapshot-repository</url>
                 </repository>
         </repositories>
+        <scm>
+                <connection>scm:git:https://github.com/taverna/taverna-engine-reference-utils.git</connection>
+                <developerConnection>scm:git:ssh://git@github.com:taverna/taverna-engine-reference-utils.git</developerConnection>
+                <url>https://github.com/taverna/taverna-engine-reference-utils</url>
+                <tag>HEAD</tag>
+        </scm>
 </project>
